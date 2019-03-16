@@ -6,4 +6,4 @@ Should compile fine with both VC and gcc, avoid precompiled headers.
 
 ## Syntax
 
-mpfsx <filename>
+mpfsx \<filename\>
